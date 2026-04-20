@@ -57,9 +57,7 @@ Open the project.pbix file.
 If the visuals do not load, go to Transform Data > Data Source Settings and update the file path to point to the brazil_ecommerce_master.csv on your computer.
 
 # 📸 Dashboard Preview
-(Tip: Take a screenshot of your Power BI dashboard and save it in your repo as dashboard_preview.png, then link it here!)
+<img width="1081" height="691" alt="image" src="https://github.com/user-attachments/assets/659e12ee-f030-4796-971c-9902ad990511" />
 
-Pro-Tips for your Submission:
-Screenshots: Since recruiters cannot "preview" a .pbix file on GitHub, adding a clear image of your dashboard to the README is the most important step to get noticed.
 
-Insights Section: Add a section called "Key Insights" and list 3–5 specific things you found (e.g., "São Paulo accounts for 40% of all orders" or "Average delivery time improved by 2 days in 2018").
+
